@@ -1,4 +1,4 @@
-releases: 
+
   - name: rediscart
     chart: charts/redis
     values: 
