@@ -1,4 +1,4 @@
-appName: checkoutservice
+
 appImage: gcr.io/google-samples/microservices-demo/checkoutservice
 appVersion: v0.8.0
 appReplicas: 2
