@@ -1,4 +1,4 @@
-
+helm uninstall rediscart 
 
 helm uninstall emailservice 
 helm uninstall cartservice 
