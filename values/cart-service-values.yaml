@@ -1,4 +1,4 @@
-
+appName: cartservice
 appImage: gcr.io/google-samples/microservices-demo/cartservice
 appVersion: v0.8.0
 appReplicas: 2
