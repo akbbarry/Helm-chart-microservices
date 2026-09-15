@@ -1,4 +1,4 @@
-appName: redis
+
 appImage: redis
 appVersion: alpine
 appReplicas: 1
