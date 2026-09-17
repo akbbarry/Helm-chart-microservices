@@ -1,4 +1,6 @@
-releases: 
+namespace: microservices
+
+releases:
   - name: rediscart
     chart: charts/redis
     values: 
