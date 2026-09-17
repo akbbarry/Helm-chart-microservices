@@ -1,6 +1,6 @@
 appName: redis
 appImage: redis
-appVersion: alpine
+appVersion: "7.2.5"
 appReplicas: 1
 containerPort: 6379
 volumeName: redis-data
