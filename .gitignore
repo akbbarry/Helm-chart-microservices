@@ -1,0 +1,5 @@
+
+# Kubernetes credentials
+*.kubeconfig
+*kubeconfig*.yaml
+*kubeconfig*.yml
